@@ -1,16 +1,54 @@
-## Hi there 👋
+# Привет! Я Чигарев Антон 👋
 
-<!--
-**ant0n-56/ant0n-56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-разработчик, эксперт по цифровой доступности и вайбкодер, создающий инклюзивные и эффективные цифровые продукты.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Чем я занимаюсь
+
+* **Backend Development:** Проектирую и создаю надёжную серверную логику, высоконагруженных Telegram-ботов и API. 
+* **Digital Accessibility (a11y):** Провожу аудит и консультирую по вопросам невизуальной доступности интерфейсов. Делаю так, чтобы софт был удобен для *всех* пользователей без исключения.
+* **Vibe Coding:** Прокачиваю разработку с помощью передовых AI-инструментов, фокусируясь на архитектуре, логике и быстром выводе MVP на рынок, не застревая в рутине.
+
+---
+
+---
+
+## 🧰 Технологический стек
+
+### 🐍 Python & Backend
+* **Frameworks:** FastAPI, Django, Flask
+* **Async & Bots:** Aiogram, Telebot
+* **Data & Task Management:** PostgreSQL, Redis, Celery, SQLAlchemy
+
+### 📱 Android & Web
+* **Mobile:** Android Development (Java/Kotlin)
+* **Runtime:** Node.js (Express, JS/TS)
+
+### ♿ Accessibility & Tools
+* **Тестирование и аудит:** Навигация без экрана (Screen Readers), соответствие стандартам WCAG, адаптация UI/UX для невизуального использования.
+
+---
+
+## 🚀 Проекты в фокусе
+
+* **AudioGuitarTuner** — разработанное мной Android-приложение для гитаристов со встроенным точным тюнером и удобным метрономом.
+* **Multi-AI Telegram Bots** — сложные экосистемы с интеграцией нескольких нейросетей, кэшированием в Redis и биллингом токенов.
+* **Инклюзивный софт & Аудит** — адаптация цифровых продуктов, аудит мобильных/веб-интерфейсов на предмет доступности и консультирование компаний.
+
+
+---
+
+## 💬 Давай общаться!
+
+> *"Пишу код, который работает быстро. Создаю интерфейсы, которые доступны каждому. Ловлю правильный вайб в разработке."*
+
+* **Telegram:** [Личка](https://t.me/ant0n_56)
+* **Блог:** [Канал «LOMMAST»](https://t.me/lommast)
+
+---
+
+### GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ant0n-56&show_icons=true&theme=visual_studio_dark" alt="Anton's GitHub Stats" />
+</p>
